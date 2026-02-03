@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { HomePage, EnterInfo, Result } from "./components/showPage";
-
+import "./styles/global.css";
 export type Pages = "homePage" | "enterInfo" | "result";
 
 const preInput = {
