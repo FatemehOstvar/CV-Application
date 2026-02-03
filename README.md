@@ -4,7 +4,7 @@ This is my first React project. It's a simple CV generation app where users can 
 
 ## Deployment
 
-The app is deployed on Netlify and can be accessed here: [Live Demo]([https://your-cv-app.netlify.app](https://cv-generator-s.netlify.app/))  
+The app is deployed on Netlify and can be accessed here: [Live Demo]([https://cv-generator-s.netlify.app/])  
 
 ## Features
 
